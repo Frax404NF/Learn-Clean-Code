@@ -1,8 +1,7 @@
 # Learn-Clean-Code
-Belajar Menulis Clean Code 
+## Belajar Menulis Clean Code 
 
-"Kode yang sudah jadi, masih bisa diperbaiki
-    Kode yang sudah diperbaiki, masih bisa diperbaiki"
+### "Kode yang sudah jadi, masih bisa diperbaiki, kode yang sudah diperbaiki, masih bisa diperbaiki"
 
 - Penamaan fungsi = camelCase
 
