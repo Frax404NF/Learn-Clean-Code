@@ -11,11 +11,13 @@ seperti di JS ada airbnb, ESLint ataupun menggunakan gaya penulisan sendiri asal
 
 - Memposisikan elemen dari pendek ke panjang agar terlihat bersih contoh :
 
+```
 function updateView(backgroundColor, textColor, themeInfo) {
     document.body.style.color = textColor                           
     document.body.style.backgroundColor = backgroundColor
     document.getElementById("themeInfo").innerHTML = themeInfo
 }
+```
 
 - Hindari penulisan kode yang berulang, Boilerplate Code 
 
